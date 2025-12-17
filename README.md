@@ -6,12 +6,12 @@
     <td>
       <h3>Hi, I'm Max.</h3>
       <p>
-        I'm a student studying Computer Science and Math.<br>
+        I'm a student studying Computer Science and Math.
       </p>
       <p>
-        I am interested in programming languages, algorithms, category theory, and linguistics.
+        I am interested in programming languages, algorithms, <br> category theory,  and linguistics.
     </p><p>
-        I also have a passion for privacy and free and open source software.
+        I also have a passion for privacy and free and open  <br> source software.
       </p>
     </td>
   </tr>
