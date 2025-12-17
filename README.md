@@ -10,6 +10,7 @@
       </p>
       <p>
         I am interested in programming languages, algorithms, category theory, and linguistics.
+    </p><p>
         I also have a passion for privacy and free and open source software.
       </p>
     </td>
