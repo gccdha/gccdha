@@ -9,7 +9,7 @@
         I'm a student studying Computer Science and Math.<br>
       </p>
       <p>
-        I am interested in programming languages, algorithms, category theory, and <br> linguistics.
+        I am interested in programming languages, algorithms, category theory, and linguistics.
         I also have a passion for privacy and free and open source software.
       </p>
     </td>
